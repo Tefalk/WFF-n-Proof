@@ -1,2 +1,2 @@
-# tictakchec
-implementation of the tictacchec game with codea
+# WFFnProof
+implementation of the game WFF n Proof
